@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MLflow and generated artifacts
+mlruns/
+artifacts/
+models/
+outputs/
+logs/
+
+# Generated data
+data/processed/

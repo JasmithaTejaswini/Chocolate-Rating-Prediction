@@ -1,0 +1,16 @@
+{
+    "status": "passed",
+    "checks": {
+        "model_exists": true,
+        "mae_is_finite": true,
+        "rmse_is_finite": true,
+        "r2_is_finite": true
+    },
+    "metrics": {
+        "MAE": 0.33233635097493036,
+        "MSE": 0.18341393192896938,
+        "RMSE": 0.4282685278291756,
+        "R2": 0.20655967236930428,
+        "test_rows": 359
+    }
+}
